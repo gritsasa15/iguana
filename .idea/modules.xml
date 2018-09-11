@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/eureka/eureka.iml" filepath="$PROJECT_DIR$/common/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feeder/feeder.iml" filepath="$PROJECT_DIR$/feeder/feeder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feeder/feeder-api/feeder-api.iml" filepath="$PROJECT_DIR$/feeder/feeder-api/feeder-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feeder/feeder-dao/feeder-dao.iml" filepath="$PROJECT_DIR$/feeder/feeder-dao/feeder-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feeder/feeder-service/feeder-service.iml" filepath="$PROJECT_DIR$/feeder/feeder-service/feeder-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iguana.iml" filepath="$PROJECT_DIR$/.idea/iguana.iml" />
+    </modules>
+  </component>
+</project>
